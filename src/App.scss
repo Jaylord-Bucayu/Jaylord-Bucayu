@@ -36,6 +36,8 @@ body {
     width: 60%;
     left: 25%;
     position: relative;
+    display: flex;
+    flex-direction: column;
   }
 }
 .About {

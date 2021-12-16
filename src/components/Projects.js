@@ -1,5 +1,6 @@
 import React from 'react'
 import Card from './Card';
+import Heading from './Heading';
 
 
 const Projects = ()=>{
@@ -8,6 +9,7 @@ const Projects = ()=>{
 
     return(
             <div className="Projects section" id="project">
+                
                         <div className="project-scroll">
                           
                        
@@ -19,7 +21,7 @@ const Projects = ()=>{
 
                         </div>
                     
-                   
+                        <Heading text={"Projects that I worked on and with"}/>
             </div>
     )
 }
