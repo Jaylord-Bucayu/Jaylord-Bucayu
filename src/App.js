@@ -3,12 +3,11 @@ import './App.scss';
 import About from './components/About';
 import Nav from './components/Nav';
 import Me from './components/Me';
-import React, { Component, useState, useEffect }  from 'react';
-import { Routes, Route, Outlet } from "react-router-dom";
-import { Animator, ScrollContainer, ScrollPage, batch, Fade, FadeIn, Move, MoveIn, MoveOut, Sticky, StickyIn, ZoomIn } from "react-scroll-motion";
+import React, { useState, useEffect }  from 'react';
+
 import Projects from './components/Projects';
 import Contact from './components/Contact';
-import { Link, Button, Element, Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll'
+
 import Learnings from './components/Learnings';
 
 function App() {

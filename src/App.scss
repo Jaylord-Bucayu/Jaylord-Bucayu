@@ -75,6 +75,14 @@ body {
     color: #282c34;
   }
 }
+#alert {
+  background-color: #2bca1f;
+  width: fit-content;
+  padding: 5px 8px 5px 8px;
+  color: white;
+  border-radius: 5px;
+  display: none;
+}
 .Nav {
   height: 100vh;
   width: auto;
