@@ -39,6 +39,14 @@ body {
     display: flex;
     flex-direction: column;
   }
+  .sections {
+    height: 100vh;
+
+    scroll-snap-align: start;
+    width: 60%;
+    left: 25%;
+    position: relative;
+  }
 }
 .About {
   position: fixed;

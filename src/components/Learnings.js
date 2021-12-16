@@ -35,7 +35,7 @@ useEffect(()=>{
 });
 
         return(
-            <div className="Learnings section" id="learnings" >
+            <div className="Learnings sections" id="learnings" >
                    <div className="learnings-type"> <Heading text="Today I'm learning"/>
                     <p className="typing"></p>
 
