@@ -1,5 +1,7 @@
 import React from 'react'
 import Card from './Card';
+
+
 const Projects = ()=>{
         
         
@@ -10,10 +12,10 @@ const Projects = ()=>{
                           
                        
                        
-                        <Card _img={'/images/projectcom.jpg'} cardf_title="City Online Market" link={"https://city-market.online/"} />
-                        <Card  _img={'/images/projectcovid.jpg'} cardf_title="Tracking the Crown" link={"http://trackingthecrown-app.herokuapp.com/"}/>
-                        <Card  _img={'/images/projectdrums.jpg'} cardf_title="Visual Drums" link={"https://vdrum.herokuapp.com/"}/>
-                        <Card  _img={'/images/projectkey.jpg'} cardf_title="Key Code Detector" link={"https://keycode-detector.herokuapp.com/"}/>
+                        <Card img={'images/projectcom.jpg'} cardf_title="City Online Market" link={"https://city-market.online/"} />
+                        <Card  img={'images/projectcovid.jpg'} cardf_title="Tracking the Crown" link={"http://trackingthecrown-app.herokuapp.com/"}/>
+                        <Card  img={'images/projectdrums.jpg'} cardf_title="Visual Drums" link={"https://vdrum.herokuapp.com/"}/>
+                        <Card  img={'images/projectkey.jpg'} cardf_title="Key Code Detector" link={"https://keycode-detector.herokuapp.com/"}/>
 
                         </div>
                     
