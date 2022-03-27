@@ -1,4 +1,4 @@
-<h1>Hi! Im Jaylord Bucayu :v:</h1>
+<h1 style="color:Red">Hi! Im Jaylord Bucayu :v:</h1>
 
 I am aspiring Fullstack Web Developer. 
 </br>
