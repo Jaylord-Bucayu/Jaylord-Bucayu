@@ -5,6 +5,8 @@ Just a guy who loves doing things that makes me happy. :heart_eyes:
 
 
 <h2>What am I working on :question:</h2>
-reactjs
+ 📖 I am currently learning PERN stack.
+ 💻 Always looking for a project to collaborate with.
+ 
 
 
