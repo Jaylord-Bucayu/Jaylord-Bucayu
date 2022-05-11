@@ -2,7 +2,7 @@
 
 I am aspiring Fullstack Web Developer. 
 </br>
-Just a guy who loves doing things that makes me happy. :heart_eyes:
+Doing something great :heart_eyes:
 
 
 <h2>What am I working on :question:</h2>
