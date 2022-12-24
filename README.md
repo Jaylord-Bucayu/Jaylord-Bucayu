@@ -6,7 +6,7 @@ Doing something great :heart_eyes:
 
 
 <h2>What am I working on :question:</h2>
- 📖 I am currently learning PERN stack.
+ 📖 MERN stack peep.
  </br>
  💻 Always looking for a project to collaborate with.
  
