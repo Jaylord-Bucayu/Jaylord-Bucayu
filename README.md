@@ -2,13 +2,13 @@
 
 I am <s>aspiring</s> Fullstack Web Developer. 
 </br>
-Doing something great :heart_eyes:
+Doing something great 🌟:
 
 
 <h2>What am I working on :question:</h2>
  📖 MERN stack peep.
  </br>
- IOT integrator
+ 🤖 IOT integrator
  </br>
  💻 Always looking for a project to collaborate with.
   
