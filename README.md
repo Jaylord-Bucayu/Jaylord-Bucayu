@@ -1,6 +1,6 @@
 <h1 style="color:Red">Hi! Im Jaylord Bucayu :v:</h1>
 
-I am <s>aspiring</s> Fullstack Web Developer. 
+Fullstack Web Developer. 
 </br>
 Doing something great 🌟:
 
