@@ -25,6 +25,7 @@ I'm a passionate developer with experience in a variety of technologies and fram
 - C#
 - TypeScript
 - AWS
+- MongoDB/MySql/PostgreSql
 - More
 
  ## Contact Me
