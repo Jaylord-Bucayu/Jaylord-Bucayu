@@ -11,6 +11,31 @@ Doing something great 🌟:
  🤖 IOT integrator
  </br>
  💻 Always looking for a project to collaborate with.
+
+## About Me
+
+I'm a passionate developer with experience in a variety of technologies and frameworks. My primary focus is on web development, but I also have experience with backend technologies and cloud services. 
+
+## Technologies
+
+- Node.js
+- React.js
+- Vue.js
+- Laravel
+- C#
+- TypeScript
+- Firebase
+- AWS
+- More
+
+ ## Contact Me
+
+Feel free to reach out to me through the following channels:
+
+- Email: jaylordbucayu@gmail.com
+- LinkedIn: [Jaylord Bucayu](https://www.linkedin.com/in/jaylord-bucayu-887737196)
+- Website: (https://jlord-bucayu.vercel.app)
+
   
 
 
