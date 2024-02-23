@@ -24,7 +24,6 @@ I'm a passionate developer with experience in a variety of technologies and fram
 - Laravel
 - C#
 - TypeScript
-- Firebase
 - AWS
 - More
 
