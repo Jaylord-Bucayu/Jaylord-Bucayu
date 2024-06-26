@@ -34,7 +34,7 @@ Feel free to reach out to me through the following channels:
 
 - Email: jaylordbucayu@gmail.com
 - LinkedIn: [Jaylord Bucayu](https://www.linkedin.com/in/jaylord-bucayu-887737196)
-- Website: ([https://jlord-bucayu.vercel.app](https://jlordb.vercel.app])
+- Website: [https://jlord-bucayu.vercel.app](https://jlordb.vercel.app])
 
   
 
