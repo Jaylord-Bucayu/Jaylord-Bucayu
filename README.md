@@ -8,8 +8,7 @@ Doing something great 🌟:
 <h2>What am I working on :question:</h2>
  📖 MERN stack peep.
  </br>
- 🤖 IOT integrator
- </br>
+
  💻 Always looking for a project to collaborate with.
 
 ## About Me
